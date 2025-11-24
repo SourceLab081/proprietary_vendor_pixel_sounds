@@ -8,9 +8,9 @@ soong_namespace {
 }
 
 android_app_import {
-	name: "SoundPickerPrebuilt_32000122",
+	name: "SoundPickerPrebuilt_33000062",
 	owner: "pixel/sounds",
-	apk: "proprietary/product/app/SoundPickerPrebuilt_32000122/SoundPickerPrebuilt_32000122.apk",
+	apk: "proprietary/product/app/SoundPickerPrebuilt_33000062/SoundPickerPrebuilt_33000062.apk",
 	preprocessed: true,
 	presigned: true,
 	dex_preopt: {

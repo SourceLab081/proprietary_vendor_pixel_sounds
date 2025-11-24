@@ -1,7 +1,7 @@
-# Extracted from caiman-ota-bp2a.250705.008
+# Extracted from caiman-ota-bp3a.251105.015
 
 # Sound Picker
-product/app/SoundPickerPrebuilt_32000122/SoundPickerPrebuilt_32000122.apk;PRESIGNED
+product/app/SoundPickerPrebuilt_33000062/SoundPickerPrebuilt_33000062.apk;PRESIGNED
 
 # Media
 product/media/audio/notifications/Sticks_and_stones.ogg

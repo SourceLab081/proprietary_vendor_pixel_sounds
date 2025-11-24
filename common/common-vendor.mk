@@ -77,4 +77,4 @@ PRODUCT_COPY_FILES += \
     vendor/pixel/sounds/common/proprietary/product/media/audio/ui/reverse_charging_start.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ui/reverse_charging_start.ogg
 
 PRODUCT_PACKAGES += \
-    SoundPickerPrebuilt_32000122
+    SoundPickerPrebuilt_33000062
