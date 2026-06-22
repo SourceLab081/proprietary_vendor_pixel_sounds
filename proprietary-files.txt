@@ -1,4 +1,4 @@
-# Extracted from caiman-ota-bp4a.251205.006
+# Extracted from caiman-ota-cp2a.260605.012
 
 # Sound Picker
 product/app/SoundPickerPrebuilt_33000242/SoundPickerPrebuilt_33000242.apk;PRESIGNED
@@ -46,7 +46,6 @@ product/media/audio/ui/NFCInitiated.ogg
 product/media/audio/ui/KeypressStandard.ogg
 product/media/audio/ui/Unlock.ogg
 product/media/audio/ui/KeypressSpacebar.ogg
-product/media/audio/ui/AttentionalHaptics.ogg
 product/media/audio/ringtones/Mash_up.ogg
 product/media/audio/ringtones/Schools_out.ogg
 product/media/audio/ringtones/Leaps_and_bounds.ogg
